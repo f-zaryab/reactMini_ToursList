@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactMini_ToursList/static/css/main.8e49c9d7.chunk.css",
+    "main.js": "/reactMini_ToursList/static/js/main.a9b75730.chunk.js",
+    "main.js.map": "/reactMini_ToursList/static/js/main.a9b75730.chunk.js.map",
+    "runtime-main.js": "/reactMini_ToursList/static/js/runtime-main.d07a489c.js",
+    "runtime-main.js.map": "/reactMini_ToursList/static/js/runtime-main.d07a489c.js.map",
+    "static/js/2.b79bb511.chunk.js": "/reactMini_ToursList/static/js/2.b79bb511.chunk.js",
+    "static/js/2.b79bb511.chunk.js.map": "/reactMini_ToursList/static/js/2.b79bb511.chunk.js.map",
+    "index.html": "/reactMini_ToursList/index.html",
+    "precache-manifest.465b58e0d0905058536590b968f9626f.js": "/reactMini_ToursList/precache-manifest.465b58e0d0905058536590b968f9626f.js",
+    "service-worker.js": "/reactMini_ToursList/service-worker.js",
+    "static/css/main.8e49c9d7.chunk.css.map": "/reactMini_ToursList/static/css/main.8e49c9d7.chunk.css.map",
+    "static/js/2.b79bb511.chunk.js.LICENSE.txt": "/reactMini_ToursList/static/js/2.b79bb511.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d07a489c.js",
+    "static/js/2.b79bb511.chunk.js",
+    "static/css/main.8e49c9d7.chunk.css",
+    "static/js/main.a9b75730.chunk.js"
+  ]
+}
